@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">A back-end developer with experience in video game localisation</h3>
+<h3 align="center">A back end developer with a background in video game localisation</h3>
 
 - 🔭 I’m currently working on **a search engine project**
 
