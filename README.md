@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a search engine project**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/oliviabonnal](https://troopl.com/oliviabonnal)
+- 👨‍💻 Check out my projects here: [https://troopl.com/oliviabonnal](https://troopl.com/oliviabonnal)
 
 - 📫 How to reach me: **oliviabonnal@gmail.com**
 
-- 📄 Know about my experiences: [https://bit.ly/3LBosEe](https://bit.ly/3LBosEe)
+- 📄 Know about my experiences: [https://bit.ly/3So1bZ8](https://bit.ly/3So1bZ8)
 
 - ⚡ Fun fact: **I've translated Pokémon names from Japanese into French**
 
