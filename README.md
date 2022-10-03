@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **oliviabonnal@gmail.com**
 
-- 📄 Find out about my experiences on my resume: [https://bit.ly/3So1bZ8](https://bit.ly/3So1bZ8)
+- 📄 Find out about my experiences on my resume: [https://bit.ly/3rnx5Js](https://bit.ly/3rnx5Js)
 
 - ⚡ Fun fact: **I've translated Pokémon names from Japanese into French**
 
