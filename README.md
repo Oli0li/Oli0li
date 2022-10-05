@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
 <h3 align="center">A back end developer with a background in video game translation and testing</h3>
 
-- 🔭 I’m currently working on **a search engine project**
+- 🔭 I’m currently working on **an AirBnb-like project with geocoding**
 
 - 👨‍💻 Check out my projects here: [https://troopl.com/oliviabonnal](https://troopl.com/oliviabonnal)
 
